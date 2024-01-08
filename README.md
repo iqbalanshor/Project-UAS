@@ -16,4 +16,9 @@
 | --- | --- |
 
 # Code Program Python
-![gambar](screenshot/ss1.png)
+![gambar](Screenshot/ss1.png)
+
+# Hasil Program Python
+![gambar](Screenshot/HasilOuput1.png)
+![gambar](Screenshot/HasilOutput2.png)
+![gambar](Screenshot/HasilOutput3.png)
